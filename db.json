@@ -1,0 +1,78 @@
+{
+    "user": [
+   {
+    "name": "Anivesh Rana",
+    "email": "anivesh@test.com",
+    "password": "anivesh@123",
+    "id": 1
+   },
+   {
+    "name": "AniveshRana",
+    "email": "aniveshrana@test.com",
+    "password": "Ani@123",
+    "id": "2"
+   },
+   {
+    "name": "Abc",
+    "email": "abc@test.com",
+    "password": "Abc@123",
+    "id": "3"
+   },
+   {
+    "name": "Atul Dhiman",
+    "email": "atuldhiman@test.com",
+    "password": "1234",
+    "id": "4"
+   },
+   {
+    "name": "abcdef",
+    "email": "abc@test.com",
+    "password": "123",
+    "id": "5"
+   },
+   {
+    "name": "hhhhh",
+    "email": "hhhh@test.com",
+    "password": "1111",
+    "id": "6"
+   },
+   {
+    "name": "sadfajqagb",
+    "email": "vadvadvd",
+    "password": "zsvdszdvsdv",
+    "id": "7"
+   },
+   {
+    "name": "asasa",
+    "email": "sasasas",
+    "password": "assasasa",
+    "id": "8"
+   },
+   {
+    "name": "aaaRana",
+    "email": "aaa",
+    "password": "aaa",
+    "id": "9"
+   },
+   {
+    "name": "tea",
+    "email": "tea@gmail.com",
+    "password": "tea123",
+    "id": "10"
+   }
+  ],
+    "restaurant": [
+  {
+  "name": "ABC XYZ",
+  "address": "thural",
+  "contact": "5",
+  "id": "1"
+  },
+      {
+        "name": "kaka",
+  "address": "mohali",
+  "contact": "51211",
+  "id": "2"
+      }
+    ]
+  }
